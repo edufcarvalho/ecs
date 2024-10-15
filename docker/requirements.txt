@@ -1,0 +1,6 @@
+fastapi[standard]
+psycopg2
+kafka-python
+alembic
+sqlalchemy
+
